@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMNoteApp</string>
+    <string name="titleHint">Title</string>
+    <string name="descHint">Description</string>
+    <string name="priority">Priority: </string>
+    <string name="save">Save</string>
+    <string name="deleteAllNotes">Delete all notes</string>
+</resources>
